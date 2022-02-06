@@ -25,7 +25,7 @@ SECRET_KEY = 'k-5@pjb080-)$r-@wr9c5l*dj-*bbv52q%_msnyl0tjdf&a2ao'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'joonb.pythonanywhere.com']
 
 
 # Application definition
